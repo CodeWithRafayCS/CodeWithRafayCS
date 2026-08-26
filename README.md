@@ -1,11 +1,13 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">🚀 Abdul Rafay Akhtar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:7f00ff,100:00d4ff&height=200&section=header&text=Abdul%20Rafay%20Akhtar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header" />
+</p>
 
 <h3 align="center">Full Stack Developer | Computer Science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Scalable+Apps;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Scalable+Apps;Java+%26+Spring+Boot+Apps;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -159,7 +161,7 @@ Hey there! I'm **Abdul Rafay**, a passionate developer who loves transforming id
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f00ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:7f00ff,100:00d4ff&height=120&section=footer" width="100%" />
 </p>
 
 <h3 align="center">
