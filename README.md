@@ -27,12 +27,11 @@
 
 Hey there! I'm **Abdul Rafay**, a passionate developer who loves transforming ideas into reality through code. With a strong foundation in **Full Stack Development**, I enjoy crafting scalable applications, solving complex problems, and constantly pushing the boundaries of what I can create.
 
-🔭 I’m currently working on bashaar-crm
-👯 I’m looking to collaborate on deadline-rescue
-💬 Ask me about C++,Java,Python,HTML,CSS
-📫 How to reach me RAFAY99940@gmail.com
-⚡ Fun fact I believe the best way to learn programming is to build, break, debug, and build again – every error is just a lesson in disguise!
- 
+- 🔭 I’m currently working on **bashaar-crm**
+- 👯 I’m looking to collaborate on **deadline-rescue**
+- 💬 Ask me about **C++, Java, Python, HTML, CSS**
+- 📫 How to reach me **RAFAY99940@gmail.com**
+- ⚡ Fun fact: I believe the best way to learn programming is to build, break, debug, and build again – every error is just a lesson in disguise!
 
 <br>
 
