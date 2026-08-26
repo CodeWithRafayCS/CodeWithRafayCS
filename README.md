@@ -2,7 +2,7 @@
 
 <h1 align="center">🚀 Abdul Rafay Akhtar</h1>
 
-<h3 align="center">Full Stack Developer | Software Engineering Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Computer Science</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Scalable+Apps;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
@@ -25,12 +25,12 @@
 
 Hey there! I'm **Abdul Rafay**, a passionate developer who loves transforming ideas into reality through code. With a strong foundation in **Full Stack Development**, I enjoy crafting scalable applications, solving complex problems, and constantly pushing the boundaries of what I can create.
 
-- 🔭 **Currently Exploring:** Advanced Full Stack Architectures
-- 🌱 **Learning:** Data Structures & Algorithms (DSA) and System Design
-- 👯 **Looking to Collaborate:** On innovative **Open Source** and **Full Stack** projects
-- 💬 **Ask Me About:** C++, Java, Python, JavaScript, React, Node.js, SQL, and anything tech!
-- 📫 **Let's Connect:** [RAFAY99940@gmail.com](mailto:RAFAY99940@gmail.com)
-- ⚡ **Fun Fact:** I believe the best way to master programming is to **build, break, debug, and repeat** – every error is just a lesson in disguise!
+🔭 I’m currently working on bashaar-crm
+👯 I’m looking to collaborate on deadline-rescue
+💬 Ask me about C++,Java,Python,HTML,CSS
+📫 How to reach me RAFAY99940@gmail.com
+⚡ Fun fact I believe the best way to learn programming is to build, break, debug, and build again – every error is just a lesson in disguise!
+ 
 
 <br>
 
